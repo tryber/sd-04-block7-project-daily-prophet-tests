@@ -1,0 +1,65 @@
+{
+	"project": {
+		"name": "betrybe/sd-0x-block7-project-daily-prophet",
+		"description": "Projeto de HTML, CSS, JavaScript, Mobile First & Animações.",
+		"enabled": true,
+		"deadline": "YYYY-MM-DD 17:10:00",
+		"requirements": [
+			{
+				"description": "Sua página deve usar os elementos semânticos do _HTML_ de forma correta. Sua página deve conter os elementos: `header`, `nav`, `aside`, `article`, `section`, `footer`, `img`, `a`.",
+				"enabled": true,
+				"bonus": false
+			},
+			{
+				"description": "Sua página deve passar no validador de acessibilidade AChecker.",
+				"enabled": true,
+				"bonus": false
+			},
+			{
+				"description": "Você deve criar dois layouts: um para telas que tenham até `760px` de largura, e outro para telas que tenham no mínimo `1170px` de largura.",
+				"enabled": true,
+				"bonus": false
+			},
+			{
+				"description": "Você deve implementar uma regra de estilo específica para quando a orientação da tela estiver em `landscape`.",
+				"enabled": true,
+				"bonus": false
+			},
+			{
+				"description": "Faça a animação de alguma coisa voando pela tela.",
+				"enabled": true,
+				"bonus": false
+			},
+			{
+				"description": "Você deve utilizar a transformação skew.",
+				"enabled": true,
+				"bonus": false
+			},
+			{
+				"description": "Você deve utilizar a transformação scale.",
+				"enabled": true,
+				"bonus": false
+			},
+			{
+				"description": "Você deve utilizar a transformação translate.",
+				"enabled": true,
+				"bonus": false
+			},
+			{
+				"description": "Você deve utilizar transitions para suavizar alterações de estilo entre seus elementos.",
+				"enabled": true,
+				"bonus": false
+			},
+			{
+				"description": "Ao clicar em um artigo, ele deve crescer em 50% ao longo de 4 segundos, e sua fonte deve ir ficando gradativamente mais em negrito durante essa transição",
+				"enabled": true,
+				"bonus": false
+			},
+			{
+				"description": "Você deve utilizar steps para que as transições entre as etapas da sua animação sejam discretas",
+				"enabled": true,
+				"bonus": false
+			}
+		]
+	}
+}

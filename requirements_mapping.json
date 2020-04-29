@@ -1,0 +1,13 @@
+{
+  "Sua página deve usar os elementos semânticos do _HTML_ de forma correta. Sua página deve conter os elementos: `header`, `nav`, `aside`, `article`, `section`, `footer`, `img`, `a`": 0,
+  "Sua página deve passar no validador de acessibilidade AChecker": 0,
+  "Você deve criar dois layouts: um para telas que tenham até `760px` de largura, e outro para telas que tenham no mínimo `1170px` de largura": 0,
+  "Você deve implementar uma regra de estilo específica para quando a orientação da tela estiver em `landscape`": 0,
+  "Faça a animação de alguma coisa voando pela tela": 0,
+  "Você deve utilizar a transformação `skew`": 0,
+  "Você deve utilizar a transformação `scale`": 0,
+  "Você deve utilizar a transformação `translate`": 0,
+  "Você deve utilizar `transitions` para suavizar alterações de estilo entre seus elementos": 0,
+  "Ao clicar em um artigo, ele deve crescer em 50% ao longo de 4 segundos, e sua fonte deve ir ficando gradativamente mais em negrito durante essa transição": 0,
+  "Você deve utilizar `steps` para que as transições entre as etapas da sua animação sejam discretas": 0
+}
